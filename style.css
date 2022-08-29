@@ -1,7 +1,12 @@
 body {
-    background: blue;
+    background: black;
+    color: white;
+    font-family: 'Montserrat';
 }
 img {
-    max-width: 100%;
+    max-width: 50%;
     height: auto;
+}
+h1 {
+    color: white;
 }
